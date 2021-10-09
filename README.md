@@ -1,4 +1,6 @@
 Olá! Eu sou a Brenda Gambera
+💡 | 1% better everyday
+
 - 🌱 Estudando HTML, CSS E JS.
 
 
